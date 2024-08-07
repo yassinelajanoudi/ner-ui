@@ -1,5 +1,5 @@
 import streamlit as st
-from main import process_prompt
+from prep import process_prompt
 
 st.title("Entity Extraction with NLP Models")
 st.write("Enter a text prompt to extract entities:")
